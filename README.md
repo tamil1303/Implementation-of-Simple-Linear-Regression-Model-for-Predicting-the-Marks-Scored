@@ -90,6 +90,13 @@ print("\nPredictions for new hours", new_hours.flatten(), "=>", np.round(pred_ne
 ```
 
 ## Output:
+<img width="298" height="351" alt="image" src="https://github.com/user-attachments/assets/fae6a3d2-8612-4892-be88-0ddb938d1fcf" />
+
+<img width="887" height="105" alt="image" src="https://github.com/user-attachments/assets/bd5b7d9d-19a3-4719-90e3-41eee218ae14" />
+<img width="831" height="70" alt="image" src="https://github.com/user-attachments/assets/132b0a32-4eef-42f6-bba9-20fb925c43f8" />
+
+
+
 <img width="600" height="397" alt="image" src="https://github.com/user-attachments/assets/ea5adc90-6122-4f49-a965-6f45993060e3" />
 <img width="547" height="337" alt="WhatsApp Image 2026-10-26 at 9 24 24 AM" src="https://github.com/user-attachments/assets/9038193a-47bd-40fd-aff3-2db662ffafba" />
 
